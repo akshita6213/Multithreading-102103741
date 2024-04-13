@@ -34,7 +34,7 @@ T=7)            | (T=8)            |
 
 The time taken is minimum when the number of threads is 5.
 ## Submitted By:
-Neelakshi Gupta
-102103766
+Akshita Gupta
+102103741
 
 
